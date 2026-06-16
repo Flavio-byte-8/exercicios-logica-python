@@ -1,8 +1,13 @@
 # exercicios-logica-python
-# Projetos de Lógica em Python
+
 Este repositório contém meus primeiros códigos em Python desenvolvidos no início do curso de ADS.
 
+---
+
 ## Script "StudyMoney"
+
+Este é um programa em Python executado via terminal que auxilia no controle financeiro pessoal focado no cumprimento de um objetivo de compra.
+
 🛠️ Funcionalidades Principais:
 * **Definição de Meta:** Permite estipular o objetivo de compra e o valor total necessário.
 * **Menu Interativo (Loop):** Roda continuamente apresentando as seguintes opções ao usuário:
