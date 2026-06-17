@@ -20,7 +20,7 @@ while True:
     if selecionar == 1:
         while selecionar == 1:
             entradadados = []
-            entradanome = input('Insira o nome da entrada (Salário, bico, mesa): ')
+            entradanome = input('Insira o nome da entrada (Salário, bico, mesada): ')
             entradadados.append(entradanome)
 
             entradavalor = float(input('Insira o valor: '))
