@@ -57,7 +57,9 @@ while True:
 
 
     elif selecionar == 3:
-        faltante = valor - (entradasoma - saidasoma)
+        faltante = (entradasoma - saidasoma) - valor
+        if faltante > 0:
+            faltante = 0
         print('\n============================')
         print('=== Status Atual da Meta ===')
         print('============================')
